@@ -1,0 +1,12 @@
+.container {
+    border: 1px solid purple;
+    display: flex;
+    justify-content: space-between;
+}
+
+.item {
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;  
+    background-color: orange;
+}

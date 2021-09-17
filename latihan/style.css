@@ -1,0 +1,12 @@
+.container{
+    display:flex;
+    border: 5px solid purple;
+    
+}
+
+.item{
+    border: 1px solid black;
+    width:200px;
+    height: 200px;
+    background-color: orange;
+}
